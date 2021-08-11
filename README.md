@@ -1,5 +1,6 @@
 ## PSP-cpp-game
 A psp game coded in c++.
+![psp logo](https://cdn.dribbble.com/users/3180742/screenshots/12124654/image.png)
 
 ## Instruction for Making required psp files.
 These are for making the required executables (eboot.pbp .elf etc) for the psp or emulator.
